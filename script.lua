@@ -1,5 +1,5 @@
 -- Credits:
--- Made by chris12089
+-- Made by chris12088
 -- UI Library based on Elerium and Icons from Lucide
 -- This file was protected using Luraph Obfuscator [https://lura.ph/]
 _G.AtlasRepository = "atlasbss"
